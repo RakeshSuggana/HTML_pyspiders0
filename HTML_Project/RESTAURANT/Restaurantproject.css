@@ -1,0 +1,12 @@
+/* Simple selector concept with id */
+#Welcome{
+    color: white;
+    background-color: rgb(177, 104, 64);
+    text-align: center;
+}
+
+
+/* Pseudo - Element selector */
+#para::first-letter{
+    font-size: 30px;
+}
